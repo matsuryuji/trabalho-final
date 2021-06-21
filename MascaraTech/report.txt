@@ -1,0 +1,5 @@
+Descrição                   Estoque   Qte Vendida  Lucro 
+Máscara Infantil Lisa          5           5         15.0
+Máscara Infantil Estampada     0           0         0.0
+Máscara Adulto Lisa            0           0         0.0
+Máscara Adulto Estampada       0           0         0.0
